@@ -1,6 +1,6 @@
 # Théorie des graphes en Java
 
-Projet de **Théorie des graphes** (Master 2 Génie logiciel, Université de Bordeaux), réalisé en binôme avec **Djibrine Moustapha Mahamat**.
+Projet de **Théorie des graphes** (Licence 3 Informatique, Université de limoges), réalisé en binôme.
 
 Trois algorithmes classiques, programmés en Java sans bibliothèque externe :
 
